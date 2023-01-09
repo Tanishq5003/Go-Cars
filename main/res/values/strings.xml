@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Go Cars</string>
+    <string-array name="Pickup">
+        <item>Pickup Location</item>
+        <item>LPU Main Gate</item>
+        <item>Jalandhar Bus Stand</item>
+        <item>Jalandhar Railway Station</item>
+        <item>Phagwara Railway Station</item>
+    </string-array>
+    <string-array name="Time">
+        <item>Estimated Pickup Time</item>
+        <item>Within 1 Hour</item>
+        <item>Within 5 Hours</item>
+        <item>Within 24 Hours</item>
+        <item>Within 2 days</item>
+        <item>Within 1 week</item>
+    </string-array>
+</resources>
